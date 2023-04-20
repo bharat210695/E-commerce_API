@@ -1,4 +1,4 @@
-# Khongten E-Commerce Project Backend
+# E-Commerce Backend
 
 ## 1. Error Codes
 
